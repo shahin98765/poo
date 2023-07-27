@@ -1,0 +1,26 @@
+.container a img{
+    width: 65px;
+    height: 30px;
+}
+.active img{
+    width: 400px;
+    height: 600px;
+}
+.order-1{
+    width: 150px !important;
+    height: 300px !important;
+}
+.container img{
+    width: 300px;
+    height: 350px;
+}
+.col-sm-5 img{
+    width: 550px;
+    height: 530px;
+}
+.bd-footer{
+    background: rgba(211, 209, 209, 0.541);
+}
+a{
+    text-decoration: none;
+}
